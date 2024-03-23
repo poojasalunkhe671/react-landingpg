@@ -1,0 +1,23 @@
+/* Introduction.css */
+
+#intro {
+    margin: 9%;
+}
+h1{
+    font-size: 80px;
+}
+h4{
+    font-size: 20px;
+}
+#introImgDiv img {
+    float: right;
+    max-width: 30%;
+    padding-right: 10%;
+    padding-top: 4%;
+}
+
+.para {
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 100;
+}

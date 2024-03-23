@@ -1,0 +1,25 @@
+/* ImmerseYourself.css */
+
+.sec4 {
+    clear: both;
+    padding-top: 140px;
+    background-image: url('/src/Component/Image/golf-ball-flag\ 1.png');
+    height: 91vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.text {
+    margin-left: 4%;
+    margin-top: 45px;
+}
+
+.text4 {
+    font-size: 25px;
+    margin-top: 2.5%;
+}
+
+.text p {
+    font-size: 15px;
+}

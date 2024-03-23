@@ -1,0 +1,40 @@
+/* Features.css */
+
+#sec5 {
+    margin-left: 9%;
+    margin-top: 5%;
+}
+
+.text10 {
+    font-size: 40px;
+}
+
+.feature {
+    display: flex;
+    margin-bottom: 40px;
+}
+
+.featureImage {
+    flex: 1;
+}
+
+.featureImage img {
+    max-width: 100%;
+}
+
+.featureDescription {
+    flex: 2;
+    padding-left: 20px;
+}
+
+.text11 {
+    padding-top: 15px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.featureList {
+    font-size: 20px;
+    padding-top: 20px;
+    font-weight: 600;
+}

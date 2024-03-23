@@ -1,0 +1,35 @@
+/* Home.css */
+
+#homepg {
+    clear: both;
+    padding-top: 140px;
+    background-image: url('/src/Component/Image/Group\ 4.png');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+   padding-left: 50%;
+}
+
+#homepg h1 {
+    font-size: 70px;
+}
+
+#homepg span {
+    color: rgb(8, 123, 8);
+    font-size: 50px;
+    padding-top: -30%;
+}
+
+#trialBtn {
+    display: block;
+    
+
+    margin-top: 30px;
+    cursor: pointer;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(16, 193, 16);
+    font-size: 25px;
+    color: white;
+}

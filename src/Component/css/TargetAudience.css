@@ -1,0 +1,26 @@
+/* TargetAudience.css */
+
+#sec3 {
+    margin-left: 9%;
+}
+
+.th3 {
+    font-size: 45px;
+    font-family: 600;
+}
+
+.para2 {
+    font-size: 25px;
+}
+
+.targetImg img {
+    position: relative;
+    max-width: 20%;
+    margin-left: 6px;
+    
+}
+
+.p {
+    font-size: 20px;
+    margin-left: 15px;
+}

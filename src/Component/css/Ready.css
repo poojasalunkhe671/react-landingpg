@@ -1,0 +1,33 @@
+
+
+.sec7 {
+    text-align: center;
+    margin-top: 5%;
+}
+
+.text17 {
+    font-size: 40px;
+}
+
+.text18 {
+    font-size: 20px;
+}
+
+.text19 {
+    font-size: 10px;
+}
+
+
+.endText {
+    color: green;
+}
+
+.button3 {
+    margin-top: 30px;
+    font-size: 15px;
+    background-color: green;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+}
